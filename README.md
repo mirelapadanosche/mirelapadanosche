@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @mirelapadanosche
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mirelapadanosche/mirelapadanosche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, Eu sou a @mirelapadanosche
+- 👀 Estou aprendendo a programar no momento.
+- 🌱 Tenho curiosidade em coisas novas.
+- 💞️ Estou colaborando com a matéria de Pensamento Computacional.
